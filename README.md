@@ -6,3 +6,5 @@
       
       
 2. [Анализ воронки прохождения этапов в мобильном приложении Quiz Freeze](https://github.com/AlexKazmin/SkillFactory-Projects/blob/main/Project_3_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B8.ipynb)
+
+      Исследую, как прохождение обучение влияет на прохождение других этапов
