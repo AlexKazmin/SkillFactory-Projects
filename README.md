@@ -10,7 +10,7 @@
       Исследую, как прохождение обучение влияет на прохождение других этапов
       
       
-3. [Анализ трафика]([https://github.com/AlexKazmin/SkillFactory-Projects/blob/main/OD_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%82%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0.ipynb](https://github.com/AlexKazmin/SkillFactory-Projects/blob/main/OD_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%82%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0.ipynb)
+3. [Анализ трафика](https://github.com/AlexKazmin/SkillFactory-Projects/blob/main/OD_1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%82%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0.ipynb)
 
       Работа с API Яндекс.Метрики
       
