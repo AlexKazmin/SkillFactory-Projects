@@ -1,7 +1,16 @@
 # SkillFactory-Projects
 
-1. Анализ эффективности бизнес показателей
-[ссылка](https://github.com/AlexKazmin/SkillFactory-Projects/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.pdf)
+## Анализ эффективности бизнес показателей
+
+На основе данных отдела маркетинга интернет-магазина мебели сделал интерактивный отчет в Power BI с основными показателями рекламы. Отчет отображает структуру маркетинговых расходов, распределение рекламных кампаний и соотношение между маркетинговыми метриками.
+
+**Навыки и инструменты**
+  - предобработка данных
+  - Power Query
+  - Power Pivot
+  - Power View
+
+[ссылка на отчет в pdf](https://github.com/AlexKazmin/SkillFactory-Projects/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.pdf)
 
 
 
@@ -30,3 +39,16 @@
 6. [Подготовка основы рекомендательной системы](https://github.com/AlexKazmin/SkillFactory-Projects/blob/main/Project4_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B0_%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B.ipynb)
 
       Составление таблицы рекомендаций курсов для олайн-кшколы
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
