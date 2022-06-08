@@ -1,4 +1,4 @@
-# SkillFactory-Projects
+# Анализ данных | Учебные проекты SkillFactory
 
 ## Анализ эффективности бизнес показателей
 
@@ -11,6 +11,19 @@
   - Power View
 
 [ссылка на отчет в pdf](https://github.com/AlexKazmin/SkillFactory-Projects/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.pdf)
+
+
+
+## Отчет по анализу эффективности e-commerce-компании
+
+Проведен анализ эффективности продаж, составление портрета клиента, анализ логистики. Даны рекомендации по маркетинговой стартегии и по выбору геолокации для открытия оффлайн-магазина. 
+
+**Навыки и инструменты**
+ - SQL
+ - визуализация в Metabase
+
+[ссылка на отчет в pdf](https://github.com/AlexKazmin/SkillFactory-Projects/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.pdf)
+
 
 
 
